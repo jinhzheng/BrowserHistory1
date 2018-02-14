@@ -7,6 +7,30 @@ font-family: 'Open Sans', sans-serif;
 img{
   float: left;
 }
+
 h1, h2{
   font-family: 'Oswald';
 }
+.left{
+  padding: 1cm  ;
+  float: left;
+  width: 300px;
+
+}
+.mid{
+  padding: 1cm;
+  margin-left: 400px;
+  margin-right: 400px;
+
+}
+.right{
+  padding: 1cm;
+  float: right;
+  width: 300px;
+
+}
+#newline a{
+  margin-left: 75px;
+  margin-right: 75px;
+}
+
