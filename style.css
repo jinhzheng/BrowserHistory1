@@ -1,36 +1,6 @@
 body{
-font-family: 'Open Sans', sans-serif;
-  color: darkblue;
-  margin: 10px 50px 10px 50px;
-  background-color: ivory;
+  margin-top: 50px;
 }
-img{
-  float: left;
+h1{
+  color: #4183C4;
 }
-
-h1, h2{
-  font-family: 'Oswald';
-}
-.left{
-  padding: 1cm  ;
-  float: left;
-  width: 300px;
-
-}
-.mid{
-  padding: 1cm;
-  margin-left: 400px;
-  margin-right: 400px;
-
-}
-.right{
-  padding: 1cm;
-  float: right;
-  width: 300px;
-
-}
-#newline a{
-  margin-left: 80px;
-  margin-right: 80px;
-}
-
